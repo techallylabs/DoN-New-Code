@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Loveus were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://don.techallylabs.com
+Data file = /home/be0w6ffilnlm/public_html/don.techallylabs.com/wp-content/plugins/loveus-demo-installer/demo-data/demo1/contents.xml
+Widget file = /home/be0w6ffilnlm/public_html/don.techallylabs.com/wp-content/plugins/loveus-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /home/be0w6ffilnlm/public_html/don.techallylabs.com/wp-content/plugins/loveus-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+loveus_options -> /home/be0w6ffilnlm/public_html/don.techallylabs.com/wp-content/plugins/loveus-demo-installer/demo-data/demo1/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "footer-logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "footer-logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "footer-logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "logo" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Categories - No Title - Imported
+Tag Cloud - Popular Tags - Imported
+
+Woo Shop Sidebar : 
+
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Products by Rating list - Top Products - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: loveus_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,2923 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loveus Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-22 19:44+0600\n"
+"PO-Revision-Date: 2019-03-05 12:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: SmartDataSoft <support@smartdatasoft.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../breadcrumb-navxt/breadcrumb-navxt.php:8
+#: ../breadcrumb-navxt/class.bcn_admin.php:26
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:26
+#, php-format
+msgid ""
+"Your PHP version is too old, please upgrade to a newer version. Your version "
+"is %1$s, Breadcrumb NavXT requires %2$s"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:65
+msgid "Breadcrumb NavXT Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:325
+msgid "Tips for the settings are located below select options."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:326
+msgid "Resources"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:327
+#, php-format
+msgid ""
+"%sTutorials and How Tos%s: There are several guides, tutorials, and how tos "
+"available on the author's website."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:328
+#, php-format
+msgid ""
+"%sOnline Documentation%s: Check out the documentation for more indepth "
+"technical information."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:329
+#, php-format
+msgid ""
+"%sReport a Bug%s: If you think you have found a bug, please include your "
+"WordPress version and details on how to reproduce the bug."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:330
+msgid "Giving Back"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:331
+#, php-format
+msgid ""
+"%sDonate%s: Love Breadcrumb NavXT and want to help development? Consider "
+"buying the author a beer."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:332
+#, php-format
+msgid ""
+"%sTranslate%s: Is your language not available? Visit the Breadcrumb NavXT "
+"translation project on WordPress.org to start translating."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:337
+#: ../breadcrumb-navxt/class.bcn_admin.php:494
+#: ../breadcrumb-navxt/class.bcn_admin.php:495
+#: ../elementor-addons/addons/latest-post.php:53
+#: ../elementor-addons/addons/loveus-cause.php:71
+#: ../elementor-addons/addons/woo-products.php:70
+msgid "General"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:340
+msgid ""
+"For the settings on this page to take effect, you must either use the "
+"included Breadcrumb NavXT widget, or place either of the code sections below "
+"into your theme."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:341
+msgid "Breadcrumb trail with separators"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:347
+msgid "Breadcrumb trail in list form"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:356
+msgid "Quick Start"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:359
+msgid ""
+"Using the code from the Quick Start section above, the following CSS can be "
+"used as base for styling your breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:371
+msgid "Styling"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:377
+msgid "Import/Export/Reset"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:401
+msgid "Import"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:402
+msgid "Export"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:403
+msgid "Reset"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:421
+msgid ""
+"Warning: Your network settings will override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:425
+#: ../breadcrumb-navxt/class.bcn_admin.php:429
+msgid ""
+"Warning: Your network settings may override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:434
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:163
+msgid ""
+"Warning: No BCN_SETTINGS_* define statement found, defaulting to "
+"BCN_SETTINGS_USE_LOCAL."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:446
+#, php-format
+msgid ""
+"Warning: Your are using a deprecated setting \"Title Length\" (see "
+"Miscellaneous &gt; Deprecated), please %1$suse CSS instead%2$s."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:446
+msgid "Go to the guide on trimming breadcrumb title lengths with CSS"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:494
+msgid ""
+"A collection of settings most likely to be modified are located under this "
+"tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:498
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:498
+msgid "Placed in between each breadcrumb."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:502
+msgid "Current Item"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:505
+msgid "Link Current Item"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:505
+msgid "Yes"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:506
+msgctxt ""
+"Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:506
+msgid "Place the page number breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:506
+msgid ""
+"Indicates that the user is on a page other than the first of a paginated "
+"archive or post."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:507
+msgctxt ""
+"Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:507
+msgid "The template for paged breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:511
+#: ../breadcrumb-navxt/class.bcn_admin.php:514
+msgid "Home Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:514
+msgid "Place the home breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:515
+msgid "Home Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:515
+msgid "The template for the home breadcrumb."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:516
+msgid "Home Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:516
+msgid ""
+"The template for the home breadcrumb, used when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:520
+#: ../breadcrumb-navxt/class.bcn_admin.php:523
+msgid "Blog Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:523
+msgid "Place the blog breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:527
+msgid "Mainsite Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:530
+msgid "Main Site Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:530
+msgid "Place the main site home breadcrumb in the trail in an multisite setup."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:531
+msgid "Main Site Home Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:531
+msgid ""
+"The template for the main site home breadcrumb, used only in multisite "
+"environments."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:532
+msgid "Main Site Home Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:532
+msgid ""
+"The template for the main site home breadcrumb, used only in multisite "
+"environments and when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:539
+msgid ""
+"The settings for all post types (Posts, Pages, and Custom Post Types) are "
+"located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:539
+msgid "Post Types"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:540
+msgid "Posts"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:543
+msgid "Post Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:543
+msgid "The template for post breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:544
+msgid "Post Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:544
+msgid ""
+"The template for post breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:545
+msgid "Post Hierarchy Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:545
+msgid ""
+"Show the hierarchy (specified below) leading to a post in the breadcrumb "
+"trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:546
+msgid "Post Hierarchy Use Parent First"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:546
+msgid ""
+"Use the parent of the post as the primary hierarchy, falling back to the "
+"hierarchy selected below when the parent hierarchy is exhausted."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:547
+msgid "Post Hierarchy Referer Influence"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:547
+#: ../breadcrumb-navxt/class.bcn_admin.php:629
+msgid ""
+"Allow the referring page to influence the taxonomy selected for the "
+"hierarchy."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:551
+msgid "Post Hierarchy"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:555
+#: ../breadcrumb-navxt/class.bcn_admin.php:678
+msgid "Categories"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:556
+#: ../breadcrumb-navxt/class.bcn_admin.php:639
+msgid "Dates"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:557
+#: ../breadcrumb-navxt/class.bcn_admin.php:685
+msgid "Tags"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:559
+#: ../breadcrumb-navxt/class.bcn_admin.php:638
+msgid "Post Parent"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:575
+#: ../breadcrumb-navxt/class.bcn_admin.php:663
+msgid ""
+"The hierarchy which the breadcrumb trail will show. Note that the \"Post "
+"Parent\" option may require an additional plugin to behave as expected since "
+"this is a non-hierarchical post type."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:579
+msgid "Pages"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:582
+msgid "Page Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:582
+msgid "The template for page breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:583
+msgid "Page Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:583
+msgid ""
+"The template for page breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:589
+msgid "Attachments"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:592
+msgid "Attachment Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:592
+msgid "The template for attachment breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:593
+msgid "Attachment Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:593
+msgid ""
+"The template for attachment breadcrumbs, used only when the breadcrumb is "
+"not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:613
+#: ../breadcrumb-navxt/class.bcn_admin.php:716
+#, php-format
+msgid "%s Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:613
+#: ../breadcrumb-navxt/class.bcn_admin.php:716
+#, php-format
+msgid "The template for %s breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:614
+#: ../breadcrumb-navxt/class.bcn_admin.php:717
+#, php-format
+msgid "%s Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:614
+#: ../breadcrumb-navxt/class.bcn_admin.php:717
+#, php-format
+msgid ""
+"The template for %s breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:619
+#, php-format
+msgid "%s Root Page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:622
+#: ../breadcrumb-navxt/class.bcn_admin.php:740
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:626
+#, php-format
+msgid "%s Archive Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:626
+#, php-format
+msgid ""
+"Show the breadcrumb for the %s post type archives in the breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:627
+#, php-format
+msgid "%s Hierarchy Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:627
+#, php-format
+msgid ""
+"Show the hierarchy (specified below) leading to a %s in the breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:628
+#, php-format
+msgid "%s Hierarchy Use Parent First"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:628
+#, php-format
+msgid ""
+"Use the parent of the %s as the primary hierarchy, falling back to the "
+"hierarchy selected below when the parent hierarchy is exhausted."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:629
+#, php-format
+msgid "%s Hierarchy Referer Influence"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:633
+#, php-format
+msgid "%s Hierarchy"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:659
+msgid "The hierarchy which the breadcrumb trail will show."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:677
+msgid ""
+"The settings for all taxonomies (including Categories, Tags, and custom "
+"taxonomies) are located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:677
+msgid "Taxonomies"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:681
+msgid "Category Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:681
+msgid "The template for category breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:682
+msgid "Category Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:682
+msgid ""
+"The template for category breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:688
+msgid "Tag Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:688
+msgid "The template for tag breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:689
+msgid "Tag Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:689
+msgid ""
+"The template for tag breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:692
+msgid "Post Formats"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:695
+msgid "Post Format Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:695
+msgid "The template for post format breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:696
+msgid "Post Format Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:696
+msgid ""
+"The template for post_format breadcrumbs, used only when the breadcrumb is "
+"not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:726
+msgid ""
+"The settings for author and date archives, searches, and 404 pages are "
+"located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:726
+#: ../breadcrumb-navxt/class.bcn_admin.php:744
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:727
+msgid "Author Archives"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:730
+msgid "Author Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:730
+msgid "The template for author breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:731
+msgid "Author Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:731
+msgid ""
+"The template for author breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:732
+msgid "Author Display Format"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:732
+msgid ""
+"display_name uses the name specified in \"Display name publicly as\" under "
+"the user profile the others correspond to options in the user profile."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:737
+msgid "Author Root Page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:747
+msgid "Date Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:747
+msgid "The template for date breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:748
+msgid "Date Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:748
+msgid ""
+"The template for date breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:749
+msgid "Search Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:749
+msgid ""
+"The anchor template for search breadcrumbs, used only when the search "
+"results span several pages."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:750
+msgid "Search Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:750
+msgid ""
+"The anchor template for search breadcrumbs, used only when the search "
+"results span several pages and the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:751
+msgid "404 Title"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:752
+msgid "404 Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:752
+msgid "The template for 404 breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:755
+msgid "Deprecated"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:759
+msgid "Title Length"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:764
+#, php-format
+msgid ""
+"Limit the length of the breadcrumb title. (Deprecated, %suse CSS instead%s)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:769
+msgid "Max Title Length: "
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb.php:239
+msgid "bcn_breadcrumb::type must be an array"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:112
+msgid "404"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:462
+msgid "$post global is not of type WP_Post"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:540
+msgctxt "day archive breadcrumb date format"
+msgid "d"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:567
+msgctxt "month archive breadcrumb date format"
+msgid "F"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:594
+msgctxt "year archive breadcrumb date format"
+msgid "Y"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:44
+msgid "Breadcrumb NavXT Network Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:146
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:164
+msgid ""
+"Warning: Individual site settings will override any settings set in this "
+"page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:154
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:158
+msgid ""
+"Warning: Individual site settings may override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:77
+msgid "The ID of the post (any type) to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:91
+msgid "The ID of the term to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:97
+msgid "The taxonomy of the term to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:110
+msgid "The ID of the author to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:31
+msgid "Adds a breadcrumb trail to your sidebar"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:108
+#: ../widgets/loveus-sidebar-latest-post-widget.php:33
+msgid "Title:"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:112
+msgid "Text to show before the trail:"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:116
+msgid "Output trail as:"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:118
+msgid "List"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:119
+msgid "Schema.org BreadcrumbList (RDFa)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:120
+msgid "Schema.org BreadcrumbList (microdata)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:121
+msgid "Plain"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:127
+msgid "Link the breadcrumbs"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:129
+msgid "Reverse the order of the trail"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:131
+msgid "Hide the trail on the front page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:133
+msgid "Ignore breadcrumb cache"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:121
+msgid "Insufficient privileges to proceed."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:228
+msgid "Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:298
+msgid ""
+"Your settings are for an older version of this plugin and need to be "
+"migrated."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:299
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:308
+msgid "Migrate the settings now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:299
+msgid "Migrate now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:307
+msgid "Your settings are for a newer version of this plugin."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:308
+msgid "Attempt back migration now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:314
+msgid "Your plugin install is incomplete."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:315
+msgid "Load default settings now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:315
+msgid "Complete now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:321
+msgid "One or more of your plugin settings are invalid."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:322
+msgid "Attempt to fix settings now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:322
+msgid "Fix now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:504
+msgid "Settings successfully saved."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:505
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:513
+msgid "Undo the options save."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:505
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:513
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:614
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:637
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:655
+msgid "Undo"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:507
+msgid "Settings did not change, nothing to save."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:509
+msgid "Settings were not saved."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:512
+msgid "Some settings were not saved."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:514
+msgid "The following settings were not saved:"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:518
+#, php-format
+msgid "Please include this message in your %sbug report%s."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:613
+msgid "Settings successfully imported from the uploaded file."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:614
+msgid "Undo the options import."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:617
+msgid "Importing settings from file failed."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:636
+msgid "Settings successfully reset to the default values."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:637
+msgid "Undo the options reset."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:654
+msgid "Settings successfully undid the last operation."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:655
+msgid "Undo the last undo operation."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:688
+msgid "Settings successfully migrated."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:693
+msgid "Default settings successfully installed."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:731
+msgid "adminKit::message is deprecated, use new adminkit_messages instead."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:797
+msgid ""
+"Import settings from a XML file, export the current settings to a XML file, "
+"or reset to the default settings."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:800
+msgid "Settings File"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:803
+msgid "Select a XML settings file to upload and import settings from."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit_message.php:43
+msgid "$uid must not be null if message is dismissible"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:11
+msgid "About are three"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:23
+#: ../elementor-addons/addons/video-area-three.php:45
+msgid "video"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:29
+#: ../elementor-addons/addons/people-talk.php:70
+#: ../elementor-addons/addons/video-area-three.php:66
+#: ../elementor-addons/addons/video-latest-activities.php:74
+msgid "Video background"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:38
+#: ../elementor-addons/addons/people-talk.php:80
+#: ../elementor-addons/addons/video-area-three.php:76
+#: ../elementor-addons/addons/video-latest-activities.php:83
+msgid "Video youtube url"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:51
+#: ../elementor-addons/addons/people-talk.php:93
+#: ../elementor-addons/addons/video-area-three.php:89
+#: ../elementor-addons/addons/video-latest-activities.php:96
+msgid "Video play icon"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:63
+#: ../elementor-addons/addons/video-area-three.php:101
+msgid "content list"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:72
+#: ../elementor-addons/addons/action-area-one.php:161
+#: ../elementor-addons/addons/action-area-one.php:231
+msgid "About feature icon"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:83
+#: ../elementor-addons/addons/action-area-one.php:172
+#: ../elementor-addons/addons/action-area-one.php:242
+msgid "About feature title"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:85
+#: ../elementor-addons/addons/action-area-one.php:174
+#: ../elementor-addons/addons/action-area-one.php:182
+#: ../elementor-addons/addons/action-area-one.php:191
+#: ../elementor-addons/addons/action-area-one.php:244
+#: ../elementor-addons/addons/action-area-three.php:32
+#: ../elementor-addons/addons/banner-slider-one.php:71
+#: ../elementor-addons/addons/banner-slider-one.php:80
+#: ../elementor-addons/addons/banner-slider-one.php:89
+#: ../elementor-addons/addons/contact.php:64
+#: ../elementor-addons/addons/contact.php:72
+#: ../elementor-addons/addons/dornor-list.php:61
+#: ../elementor-addons/addons/dornor-list.php:69
+#: ../elementor-addons/addons/dornor-list.php:77
+#: ../elementor-addons/addons/faq.php:75 ../elementor-addons/addons/faq.php:83
+#: ../elementor-addons/addons/faq.php:91 ../elementor-addons/addons/faq.php:99
+#: ../elementor-addons/addons/faq.php:107
+#: ../elementor-addons/addons/faq.php:115
+#: ../elementor-addons/addons/footer-button-menu.php:53
+#: ../elementor-addons/addons/footer-contact.php:32
+#: ../elementor-addons/addons/footer-contact.php:40
+#: ../elementor-addons/addons/footer-menu-one.php:32
+#: ../elementor-addons/addons/footer-menu-one.php:41
+#: ../elementor-addons/addons/footer-site-info.php:53
+#: ../elementor-addons/addons/footer-site-info.php:69
+#: ../elementor-addons/addons/footer-top-new.php:32
+#: ../elementor-addons/addons/footer-top-new.php:50
+#: ../elementor-addons/addons/how-it-works.php:90
+#: ../elementor-addons/addons/how-it-works.php:98
+#: ../elementor-addons/addons/how-it-works.php:107
+#: ../elementor-addons/addons/loveus-remived.php:58
+#: ../elementor-addons/addons/loveus-remived.php:66
+#: ../elementor-addons/addons/loveus-remived.php:74
+#: ../elementor-addons/addons/mission-area-one.php:106
+#: ../elementor-addons/addons/mission-area-one.php:114
+#: ../elementor-addons/addons/people-talk.php:116
+#: ../elementor-addons/addons/people-talk.php:124
+#: ../elementor-addons/addons/protoflio-two.php:43
+#: ../elementor-addons/addons/protoflio-two.php:51
+#: ../elementor-addons/addons/volunteer-area.php:77
+#: ../elementor-addons/addons/volunteer-area.php:114
+#: ../elementor-addons/addons/volunteer-area.php:122
+#: ../elementor-addons/addons/volunteer-area.php:137
+#: ../elementor-addons/addons/volunteer-area.php:156
+#: ../elementor-addons/addons/volunteer-area.php:175
+#: ../elementor-addons/header-settings.php:76
+#: ../elementor-addons/header-settings.php:84
+#: ../elementor-addons/header-settings.php:111
+#: ../elementor-addons/header-settings.php:130
+#: ../elementor-addons/header-settings.php:167
+#: ../elementor-addons/image-setting-one.php:28
+#: ../elementor-addons/image-setting-one.php:36
+#: ../elementor-addons/image-setting-one.php:44
+#: ../elementor-addons/image-setting-one.php:63
+msgid "Type your content here"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:90
+#: ../elementor-addons/addons/action-area-one.php:250
+msgid "About feature link"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-three.php:102
+#: ../elementor-addons/addons/action-area-one.php:263
+#: ../elementor-addons/addons/action-area-one.php:305
+msgid "About feature list"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-two.php:12
+msgid "About are two"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-two.php:24
+#: ../elementor-addons/addons/feature-section-two.php:24
+#: ../elementor-addons/addons/features-section.php:24
+#: ../elementor-addons/addons/mission-vision-one.php:47
+#: ../elementor-addons/addons/volunteer-area.php:97
+msgid "Header"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-two.php:33
+#: ../elementor-addons/addons/feature-section-two.php:33
+msgid "Images"
+msgstr ""
+
+#: ../elementor-addons/addons/about-area-two.php:39
+msgid "About image"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:13
+msgid "About feature one"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:25
+#: ../elementor-addons/addons/action-area-one.php:64
+#: ../elementor-addons/addons/how-it-works.php:31
+msgid "About feature style"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:32
+#: ../elementor-addons/addons/action-area-two.php:32
+#: ../elementor-addons/addons/people-talk.php:38
+#: ../elementor-addons/addons/video-area-three.php:52
+msgid "Background Color"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:42
+msgid "no padding"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:44
+#: ../elementor-addons/addons/action-area-one.php:55
+#: ../elementor-addons/addons/action-area-one.php:109
+#: ../elementor-addons/addons/faq.php:54 ../elementor-addons/addons/faq.php:66
+#: ../elementor-addons/addons/how-it-works.php:63
+msgid "yes"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:45
+#: ../elementor-addons/addons/action-area-one.php:56
+#: ../elementor-addons/addons/action-area-one.php:108
+#: ../elementor-addons/addons/faq.php:53 ../elementor-addons/addons/faq.php:65
+#: ../elementor-addons/addons/how-it-works.php:62
+msgid "no"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:53
+msgid "no icon"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:68
+#: ../elementor-addons/addons/banner-slider-one.php:40
+#: ../elementor-addons/addons/events.php:92
+#: ../elementor-addons/addons/how-it-works.php:35
+#: ../elementor-addons/addons/loveus-counterup.php:39
+#: ../elementor-addons/addons/mission-area-one.php:36
+#: ../elementor-addons/addons/people-talk.php:52
+#: ../elementor-addons/addons/video-latest-activities.php:47
+#: ../elementor-addons/addons/volunteer-area.php:56
+msgid "One"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:69
+#: ../elementor-addons/addons/banner-slider-one.php:41
+#: ../elementor-addons/addons/events.php:93
+#: ../elementor-addons/addons/how-it-works.php:36
+#: ../elementor-addons/addons/loveus-counterup.php:40
+#: ../elementor-addons/addons/mission-area-one.php:37
+#: ../elementor-addons/addons/people-talk.php:53
+#: ../elementor-addons/addons/video-latest-activities.php:48
+#: ../elementor-addons/addons/volunteer-area.php:57
+msgid "Two"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:70
+#: ../elementor-addons/addons/banner-slider-one.php:42
+#: ../elementor-addons/addons/events.php:94
+#: ../elementor-addons/addons/how-it-works.php:37
+#: ../elementor-addons/addons/loveus-counterup.php:41
+#: ../elementor-addons/addons/mission-area-one.php:38
+#: ../elementor-addons/addons/mission-area-one.php:73
+#: ../elementor-addons/addons/people-talk.php:54
+#: ../elementor-addons/addons/volunteer-area.php:58
+msgid "Three"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:71
+#: ../elementor-addons/addons/banner-slider-one.php:43
+#: ../elementor-addons/addons/events.php:95
+#: ../elementor-addons/addons/how-it-works.php:38
+#: ../elementor-addons/addons/loveus-counterup.php:42
+#: ../elementor-addons/addons/mission-area-one.php:72
+#: ../elementor-addons/addons/volunteer-area.php:59
+msgid "Four"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:72
+#: ../elementor-addons/addons/mission-area-one.php:40
+msgid "Five"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:79
+#: ../elementor-addons/addons/how-it-works.php:44
+msgid "About icon image"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:92
+msgid "About feature images or content"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:96
+msgid "content"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:97
+msgid "images"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:104
+msgid "About feature Text block"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:117
+#: ../elementor-addons/addons/blog-one.php:55
+#: ../elementor-addons/addons/dornor-list.php:31
+#: ../elementor-addons/addons/mission-area-one.php:49
+msgid "Section Header Area"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:124
+#: ../elementor-addons/addons/action-area-one.php:282
+#: ../elementor-addons/addons/banner-slider-one.php:107
+msgid "Hide or Show"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:126
+#: ../elementor-addons/addons/action-area-one.php:284
+#: ../elementor-addons/addons/banner-slider-one.php:109
+#: ../elementor-addons/addons/loveus-cause.php:226
+#: ../elementor-addons/header-settings.php:13
+#: ../elementor-addons/header-settings.php:120
+#: ../elementor-addons/header-settings.php:157
+#: ../elementor-addons/image-setting-one.php:53
+msgid "Show"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:127
+#: ../elementor-addons/addons/action-area-one.php:285
+#: ../elementor-addons/addons/banner-slider-one.php:110
+#: ../elementor-addons/addons/loveus-cause.php:227
+#: ../elementor-addons/header-settings.php:14
+#: ../elementor-addons/header-settings.php:121
+#: ../elementor-addons/header-settings.php:158
+#: ../elementor-addons/image-setting-one.php:54
+msgid "Hide"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:138
+msgid "About feature two list"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:151
+msgid "About feature single image"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:180
+msgid "About feature content"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:188
+msgid "About feature Button Title"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:190
+#: ../elementor-addons/addons/banner-slider-one.php:88
+#: ../elementor-addons/addons/how-it-works.php:106
+msgid "Donate Now"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:197
+msgid "About feature Button link"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:210
+msgid "About feature feature list"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:219
+msgid "About feature Content"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:272
+msgid "About feature images"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:295
+msgid "About feature image"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:317
+msgid "About feature images three"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:329
+msgid "About feature image left"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:339
+msgid "About feature list left"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:349
+msgid "About feature image right"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:359
+msgid "About feature list right"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:368
+msgid "About feature text block"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:380
+msgid "About feature text block title"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:387
+msgid "About feature text block content"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-one.php:394
+msgid "About feature text block list"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-three.php:11
+msgid "Call to action"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-three.php:23
+msgid "Call to action Content"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-three.php:30
+#: ../elementor-addons/addons/volunteer-area.php:75
+msgid "content section two"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-three.php:38
+#: ../elementor-addons/addons/banner-slider-one.php:86
+msgid "Button Title"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-three.php:40
+msgid "Book Tickets"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-three.php:41
+#: ../elementor-addons/addons/blog-one.php:75
+#: ../elementor-addons/addons/footer-button-menu.php:32
+msgid "Type your button title here"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-three.php:46
+#: ../elementor-addons/addons/banner-slider-one.php:94
+#: ../elementor-addons/header-settings.php:139
+#: ../elementor-addons/image-setting-one.php:71
+msgid "Button link"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-two.php:13
+msgid "Action area two"
+msgstr ""
+
+#: ../elementor-addons/addons/action-area-two.php:25
+msgid "Action area two content"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:11
+msgid "Banner Slider one"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:29
+msgid "Banner Slider Content"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:36
+msgid "Banner Slider Designs"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:50
+#: ../elementor-addons/addons/protfolio.php:42
+msgid "Background image"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:60
+msgid "Banner opacity overlay"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:62
+msgid ".5"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:68
+msgid "Banner Title"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:70
+msgid "You Can Help <br/> The Poor"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:77
+#: ../elementor-addons/addons/footer-contact.php:38
+msgid "Banner content"
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:79
+msgid ""
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia "
+"deserunt mollit anim id est laborum. "
+msgstr ""
+
+#: ../elementor-addons/addons/banner-slider-one.php:116
+#: ../elementor-addons/addons/mission-vision-one.php:108
+msgid "Slider list"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:16
+msgid "Blog area one"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:62
+msgid "Blog Header on or off"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:64
+#: ../elementor-addons/addons/mission-vision-one.php:76
+#: ../elementor-addons/addons/video-latest-activities.php:58
+msgid "Enable"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:65
+#: ../elementor-addons/addons/mission-vision-one.php:77
+#: ../elementor-addons/addons/video-latest-activities.php:57
+msgid "Disable"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:73
+msgid "All articles button text"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:80
+msgid "All articles button link"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:93
+msgid "Blog post list"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:100
+#: ../elementor-addons/addons/events.php:119
+#: ../elementor-addons/addons/latest-post.php:128
+msgid "Category"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:106
+msgid "Posts per Page"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:116
+msgid "Order by"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:119
+#: ../elementor-addons/addons/latest-post.php:90
+#: ../elementor-addons/addons/woo-products.php:185
+msgid "Date"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:120
+#: ../elementor-addons/addons/blog-one.php:127
+#: ../elementor-addons/addons/latest-post.php:91
+#: ../elementor-addons/addons/woo-products.php:186
+msgid "ID"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:121
+msgid "Author"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:122
+#: ../elementor-addons/addons/column.php:121
+#: ../elementor-addons/addons/latest-post.php:60
+#: ../elementor-addons/addons/latest-post.php:92
+#: ../elementor-addons/addons/woo-products.php:139
+#: ../elementor-addons/addons/woo-products.php:187
+msgid "Title"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:123
+#: ../elementor-addons/addons/latest-post.php:94
+#: ../elementor-addons/addons/woo-products.php:189
+msgid "Modified"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:124
+msgid "Random"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:125
+msgid "Menu order"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:132
+msgid "Sort By"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:135
+#: ../elementor-addons/addons/blog-one.php:138
+msgid "desc"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:136
+msgid "asc"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:143
+msgid "Add Extra Class"
+msgstr ""
+
+#: ../elementor-addons/addons/blog-one.php:233
+msgid "No products found"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:59
+msgid "ridcoder"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:112
+msgid "Layout"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:130
+msgid "Column Width"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:158
+msgid "Vertical Align"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:162
+#: ../elementor-addons/addons/column.php:190
+#: ../elementor-addons/addons/column.php:228
+msgid "Default"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:163
+msgid "Top"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:164
+msgid "Middle"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:165
+msgid "Bottom"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:166
+#: ../elementor-addons/addons/column.php:194
+msgid "Space Between"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:167
+#: ../elementor-addons/addons/column.php:195
+msgid "Space Around"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:168
+#: ../elementor-addons/addons/column.php:196
+msgid "Space Evenly"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:186
+msgid "Horizontal Align"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:191
+msgid "Start"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:192
+#: ../elementor-addons/addons/column.php:678
+#: ../elementor-addons/addons/mission-area-one.php:85
+#: ../elementor-addons/header-settings.php:66
+#: ../elementor-addons/image-setting-one.php:18
+msgid "Center"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:193
+msgid "End"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:207
+msgid "Widgets Space"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:234
+msgid "HTML Tag"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:246
+msgid "Background"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:256
+#: ../elementor-addons/addons/column.php:333
+#: ../elementor-addons/addons/column.php:382
+#: ../elementor-addons/addons/column.php:485
+#: ../elementor-addons/addons/column.php:820
+msgid "Normal"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:279
+#: ../elementor-addons/addons/column.php:404
+#: ../elementor-addons/addons/column.php:522
+msgid "Hover"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:294
+#: ../elementor-addons/addons/column.php:450
+#: ../elementor-addons/addons/column.php:557
+msgid "Transition Duration"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:320
+msgid "Background Overlay"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:348
+#: ../elementor-addons/addons/column.php:419
+msgid "Opacity"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:379
+msgid "Blend Mode"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:475
+msgid "Border"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:500
+#: ../elementor-addons/addons/column.php:537
+msgid "Border Radius"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:601
+msgid "Typography"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:612
+msgid "Note: The following colors won't work if Default Colors are enabled."
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:621
+msgid "Heading Color"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:634
+msgid "Text Color"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:646
+msgid "Link Color"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:658
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:670
+msgid "Text Align"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:674
+#: ../elementor-addons/addons/mission-area-one.php:84
+#: ../elementor-addons/addons/mission-vision-one.php:66
+#: ../elementor-addons/header-settings.php:65
+#: ../elementor-addons/image-setting-one.php:17
+msgid "Left"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:682
+#: ../elementor-addons/addons/mission-area-one.php:86
+#: ../elementor-addons/header-settings.php:67
+#: ../elementor-addons/image-setting-one.php:19
+msgid "Right"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:698
+msgid "Advanced"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:707
+msgid "Margin"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:719
+msgid "Padding"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:731
+msgid "Z-Index"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:744
+msgid "CSS ID"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:750
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:760
+msgid "CSS Classes"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:767
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:798
+msgid "Motion Effects"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:806
+msgid "Entrance Animation"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:815
+msgid "Animation Duration"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:819
+msgid "Slow"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:821
+msgid "Fast"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:833
+msgid "Animation Delay"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:851
+msgid "Responsive"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:859
+msgid ""
+"Responsive visibility will take effect only on preview or live page, and not "
+"while editing in Elementor."
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:868
+msgid "Hide On Desktop"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:881
+msgid "Hide On Tablet"
+msgstr ""
+
+#: ../elementor-addons/addons/column.php:894
+msgid "Hide On Mobile"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:12
+msgid "Contact Us map box"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:24
+msgid "Contact Us form header"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:33
+msgid "Contact Us form"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:40
+msgid "Contact us form short code"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:42
+msgid "Type your here"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:48
+msgid "Map canvace info"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:54
+msgid "Map Iframe code"
+msgstr ""
+
+#: ../elementor-addons/addons/contact-map.php:56
+msgid "conten here"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:12
+msgid "Contact Us info"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:24
+#: ../elementor-addons/addons/events.php:103
+msgid "Contact Us info header"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:33
+msgid "Contact Us info box"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:41
+msgid "Contact Us single image"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:51
+msgid "Contact Us icon"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:62
+msgid "Contact Us title"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:70
+msgid "Contact Us content"
+msgstr ""
+
+#: ../elementor-addons/addons/contact.php:77
+msgid "Contact Us list"
+msgstr ""
+
+#: ../elementor-addons/addons/dornor-list.php:13
+msgid "Donors list one"
+msgstr ""
+
+#: ../elementor-addons/addons/dornor-list.php:42
+#: ../elementor-addons/addons/mission-area-one.php:60
+msgid "Service List"
+msgstr ""
+
+#: ../elementor-addons/addons/dornor-list.php:49
+#: ../elementor-addons/addons/mission-area-one.php:134
+#: ../elementor-addons/addons/protoflio-two.php:31
+msgid "Service bottom image"
+msgstr ""
+
+#: ../elementor-addons/addons/dornor-list.php:59
+#: ../elementor-addons/addons/mission-area-one.php:104
+#: ../elementor-addons/addons/protoflio-two.php:41
+msgid "Service single item title"
+msgstr ""
+
+#: ../elementor-addons/addons/dornor-list.php:67
+#: ../elementor-addons/addons/protoflio-two.php:49
+msgid "Service single item subtitle"
+msgstr ""
+
+#: ../elementor-addons/addons/dornor-list.php:75
+#: ../elementor-addons/addons/mission-area-one.php:112
+msgid "Service single item content"
+msgstr ""
+
+#: ../elementor-addons/addons/dornor-list.php:82
+#: ../elementor-addons/addons/mission-area-one.php:119
+#: ../elementor-addons/addons/protoflio-two.php:56
+msgid "Service feature list"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:18
+msgid "Events"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:81
+msgid "event design area"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:88
+msgid "event design list"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:111
+#: ../elementor-addons/addons/features-section.php:33
+#: ../elementor-addons/addons/mission-vision-one.php:56
+msgid "Content"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:127
+msgid "Number of Post"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:153
+msgid "Order"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:157
+msgid "DESC"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:158
+msgid "ASC"
+msgstr ""
+
+#: ../elementor-addons/addons/events.php:312
+msgid " - "
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:13
+msgid "Faq area one"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:25
+msgid "Faq area header"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:34
+msgid "Faq area Content"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:42
+msgid "faq tab title"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:49 ../elementor-addons/addons/faq.php:61
+msgid "faq tab active"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:73
+msgid "faq one title "
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:81
+msgid "faq one content"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:89
+msgid "faq two title "
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:97
+msgid "faq two content"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:105
+msgid "faq three title "
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:113
+msgid "faq three content"
+msgstr ""
+
+#: ../elementor-addons/addons/faq.php:121
+msgid "faq list"
+msgstr ""
+
+#: ../elementor-addons/addons/feature-section-two.php:12
+msgid "Feature are two"
+msgstr ""
+
+#: ../elementor-addons/addons/feature-section-two.php:39
+msgid "feature image"
+msgstr ""
+
+#: ../elementor-addons/addons/features-section.php:12
+msgid "Feature Section one"
+msgstr ""
+
+#: ../elementor-addons/addons/features-section.php:40
+msgid "image"
+msgstr ""
+
+#: ../elementor-addons/addons/features-section.php:50
+#: ../elementor-addons/addons/features-section.php:57
+#: ../elementor-addons/addons/footer-button-menu.php:30
+msgid "All Donate Now"
+msgstr ""
+
+#: ../elementor-addons/addons/features-section.php:63
+msgid "Features list"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-button-menu.php:11
+msgid "Footer Full width info"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-button-menu.php:23
+msgid "Widget content"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-button-menu.php:37
+msgid "All Donate Now link"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-button-menu.php:51
+#: ../elementor-addons/addons/footer-menu-one.php:39
+msgid "Item text"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-button-menu.php:58
+#: ../elementor-addons/addons/footer-menu-one.php:46
+msgid "Item link"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-button-menu.php:70
+#: ../elementor-addons/addons/footer-menu-one.php:58
+#: ../elementor-addons/addons/footer-site-info.php:86
+#: ../elementor-addons/addons/volunteer-area.php:195
+msgid "Volunteer list"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-contact.php:11
+#: ../elementor-addons/addons/footer-contact.php:23
+msgid "Footer contact info"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-contact.php:30
+#: ../elementor-addons/addons/footer-menu-one.php:30
+#: ../elementor-addons/addons/footer-top-new.php:30
+msgid "Footer widget Title"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-menu-one.php:11
+msgid "Footer link"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-menu-one.php:23
+msgid "Footer link list"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:11
+msgid "Footer site info"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:23
+msgid "Footer Content"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:29
+msgid "Logo image"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:38
+msgid "Logo link"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:51
+msgid "site info"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:60
+msgid "Site Social Icon"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:67
+msgid "Social icon"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-site-info.php:74
+msgid "Social icon link"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-top-new.php:11
+msgid "Footer New area"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-top-new.php:23
+msgid "Footer News"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-top-new.php:38
+msgid "Post image"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-top-new.php:48
+msgid "Post title"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-top-new.php:55
+msgid "post link"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-top-new.php:68
+msgid "Post Date"
+msgstr ""
+
+#: ../elementor-addons/addons/footer-top-new.php:74
+msgid "Post List"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:12
+msgid "How it works"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:24
+msgid "How it works header"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:58
+msgid "padding top"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:71
+#: ../elementor-addons/addons/how-it-works.php:124
+#: ../elementor-addons/addons/people-talk.php:130
+msgid "Help list"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:78
+#: ../elementor-addons/addons/loveus-cause.php:121
+#: ../elementor-addons/addons/loveus-cause.php:131
+msgid "Help image"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:88
+msgid "Help title"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:96
+msgid "Help content"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:104
+msgid "Help Title"
+msgstr ""
+
+#: ../elementor-addons/addons/how-it-works.php:112
+msgid "Help link"
+msgstr ""
+
+#: ../elementor-addons/addons/insta-gallery.php:11
+msgid "Insta gallery one"
+msgstr ""
+
+#: ../elementor-addons/addons/insta-gallery.php:29
+msgid "insta gallery content"
+msgstr ""
+
+#: ../elementor-addons/addons/insta-gallery.php:36
+msgid "insta gallery single image"
+msgstr ""
+
+#: ../elementor-addons/addons/insta-gallery.php:45
+msgid "Slider"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:13
+msgid " LoveUs Latest Posts"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:62
+msgid "News"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:68
+#: ../elementor-addons/addons/woo-products.php:147
+msgid "Sub Title"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:70
+#: ../elementor-addons/addons/latest-post.php:120
+msgid "Latest Articles"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:78
+#: ../elementor-addons/addons/woo-products.php:173
+msgid "Number of Posts"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:80
+#: ../elementor-addons/addons/loveus-cause.php:113
+#: ../elementor-addons/addons/woo-products.php:163
+#: ../elementor-addons/addons/woo-products.php:175
+msgid "4"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:87
+#: ../elementor-addons/addons/woo-products.php:182
+msgid "Order By"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:93
+#: ../elementor-addons/addons/woo-products.php:188
+msgid "Name"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:95
+#: ../elementor-addons/addons/woo-products.php:190
+msgid "Rand"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:104
+#: ../elementor-addons/addons/woo-products.php:199
+msgid "Sort Order"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:107
+#: ../elementor-addons/addons/woo-products.php:202
+msgid "Descending"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:108
+#: ../elementor-addons/addons/woo-products.php:203
+msgid "Ascending"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:118
+msgid "Button Text"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:129
+msgid "uncategorized"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:208
+#: ../elementor-addons/addons/latest-post.php:244
+msgid "Alt"
+msgstr ""
+
+#: ../elementor-addons/addons/latest-post.php:224
+#: ../elementor-addons/addons/loveus-cause.php:399
+#: ../elementor-addons/addons/loveus-cause.php:470
+#: ../elementor-addons/addons/loveus-cause.php:535
+#: ../elementor-addons/addons/loveus-cause.php:597
+#: ../elementor-addons/addons/loveus-cause.php:654
+msgid "Read More"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:12
+msgid "Loveus Populer Causes"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:60
+msgid "Header Settings"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:78
+msgid "Select Bg"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:81
+msgid "Layout Dark"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:82
+msgid "Layout light"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:90
+msgid "Select Layout"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:93
+msgid "Layout 1"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:94
+msgid "Layout 2"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:95
+msgid "Layout 3"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:96
+msgid "Layout 4"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:97
+msgid "Layout 5"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:100
+msgid "layout_1"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:107
+#: ../elementor-addons/addons/woo-products.php:157
+msgid "Number Of Coloumns"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:110
+msgid "1"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:111
+#: ../elementor-addons/addons/woo-products.php:161
+msgid "2"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:112
+#: ../elementor-addons/addons/woo-products.php:162
+msgid "3"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:144
+#: ../elementor-addons/addons/loveus-cause.php:185
+#: ../elementor-addons/addons/loveus-cause.php:215
+#: ../elementor-addons/addons/loveus-cause.php:254
+#: ../elementor-addons/addons/loveus-cause.php:284
+msgid "Select The Popuer Cost"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:153
+msgid "Image"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:164
+#: ../elementor-addons/addons/loveus-cause.php:194
+#: ../elementor-addons/addons/loveus-cause.php:234
+#: ../elementor-addons/addons/loveus-cause.php:263
+#: ../elementor-addons/addons/loveus-cause.php:293
+msgid "Repeater List"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:169
+#: ../elementor-addons/addons/loveus-cause.php:199
+#: ../elementor-addons/addons/loveus-cause.php:239
+#: ../elementor-addons/addons/loveus-cause.php:268
+#: ../elementor-addons/addons/loveus-cause.php:298
+msgid "Title #1"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:170
+#: ../elementor-addons/addons/loveus-cause.php:174
+#: ../elementor-addons/addons/loveus-cause.php:200
+#: ../elementor-addons/addons/loveus-cause.php:204
+#: ../elementor-addons/addons/loveus-cause.php:240
+#: ../elementor-addons/addons/loveus-cause.php:244
+#: ../elementor-addons/addons/loveus-cause.php:269
+#: ../elementor-addons/addons/loveus-cause.php:273
+#: ../elementor-addons/addons/loveus-cause.php:299
+#: ../elementor-addons/addons/loveus-cause.php:303
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:173
+#: ../elementor-addons/addons/loveus-cause.php:203
+#: ../elementor-addons/addons/loveus-cause.php:243
+#: ../elementor-addons/addons/loveus-cause.php:272
+#: ../elementor-addons/addons/loveus-cause.php:302
+msgid "Title #2"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:224
+msgid "Causes button Hide or Show"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:391
+#: ../elementor-addons/addons/loveus-cause.php:462
+#: ../elementor-addons/addons/loveus-cause.php:528
+#: ../elementor-addons/addons/loveus-cause.php:584
+#: ../elementor-addons/addons/loveus-cause.php:641
+#: ../elementor-addons/addons/video-area-three.php:149
+msgid "Raised:"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-cause.php:393
+#: ../elementor-addons/addons/loveus-cause.php:464
+#: ../elementor-addons/addons/loveus-cause.php:530
+#: ../elementor-addons/addons/loveus-cause.php:586
+#: ../elementor-addons/addons/loveus-cause.php:643
+#: ../elementor-addons/addons/video-area-three.php:149
+msgid "Goal:"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:12
+msgid "Counter area one"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:27
+msgid "Counter area Content"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:35
+msgid "style"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:49
+msgid "collum text"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:51
+msgid "number"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:60
+msgid "Counter number"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:62
+msgid "number here"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:68
+msgid "Counter text"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:70
+msgid "number text"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-counterup.php:76
+msgid "Counter list"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-remived.php:12
+msgid "Review area"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-remived.php:30
+msgid "Review header"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-remived.php:39
+#: ../elementor-addons/addons/loveus-remived.php:79
+msgid "review list"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-remived.php:46
+msgid "review image"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-remived.php:56
+msgid "review title"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-remived.php:64
+msgid "review postition"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-remived.php:72
+msgid "review content"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-sponsors.php:13
+msgid "Loveus sponsors"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-sponsors.php:31
+msgid "sponsors List"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-sponsors.php:38
+msgid "sponsors image"
+msgstr ""
+
+#: ../elementor-addons/addons/loveus-sponsors.php:47
+msgid "sponsors list"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:13
+msgid "mission area one"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:25
+msgid "Service design area"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:32
+msgid "Service design list"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:39
+msgid "four"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:41
+msgid "Six"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:68
+msgid "Mission list col"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:80
+msgid "text Position"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:93
+msgid "Service single item icon"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-area-one.php:128
+msgid "Service images"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:13
+msgid "Mission Vision Area"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:25
+msgid "Mission Vision Content"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:35
+msgid "on"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:36
+msgid "off"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:67
+msgid "right"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:74
+msgid "Mission Vision Two Img Enable"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:83
+msgid "Mission Vision one"
+msgstr ""
+
+#: ../elementor-addons/addons/mission-vision-one.php:93
+msgid "Mission Vision two"
+msgstr ""
+
+#: ../elementor-addons/addons/people-talk.php:13
+msgid "people talk area"
+msgstr ""
+
+#: ../elementor-addons/addons/people-talk.php:31
+msgid "people talk design"
+msgstr ""
+
+#: ../elementor-addons/addons/people-talk.php:48
+#: ../elementor-addons/addons/volunteer-area.php:52
+msgid "volunteer design list"
+msgstr ""
+
+#: ../elementor-addons/addons/people-talk.php:63
+msgid "people talk video Content"
+msgstr ""
+
+#: ../elementor-addons/addons/people-talk.php:105
+msgid "people talk slider Content"
+msgstr ""
+
+#: ../elementor-addons/addons/people-talk.php:114
+#: ../elementor-addons/addons/people-talk.php:122
+msgid "people talk item content"
+msgstr ""
+
+#: ../elementor-addons/addons/protfolio.php:11
+msgid "Protfolio area"
+msgstr ""
+
+#: ../elementor-addons/addons/protfolio.php:26
+msgid "Protfolio list area"
+msgstr ""
+
+#: ../elementor-addons/addons/protfolio.php:34
+#: ../elementor-addons/addons/protfolio.php:37
+msgid "Single Service name"
+msgstr ""
+
+#: ../elementor-addons/addons/protfolio.php:36
+msgid "Visual identity graphic design"
+msgstr ""
+
+#: ../elementor-addons/addons/protfolio.php:51
+msgid "About count list"
+msgstr ""
+
+#: ../elementor-addons/addons/protoflio-two.php:12
+msgid "Protfolio are two"
+msgstr ""
+
+#: ../elementor-addons/addons/protoflio-two.php:24
+msgid "protfolio"
+msgstr ""
+
+#: ../elementor-addons/addons/video-area-three.php:12
+msgid "video are three"
+msgstr ""
+
+#: ../elementor-addons/addons/video-area-three.php:108
+msgid "Select The Cost"
+msgstr ""
+
+#: ../elementor-addons/addons/video-latest-activities.php:12
+msgid "Video latest activities"
+msgstr ""
+
+#: ../elementor-addons/addons/video-latest-activities.php:24
+msgid "Video header area"
+msgstr ""
+
+#: ../elementor-addons/addons/video-latest-activities.php:36
+msgid "Video area content"
+msgstr ""
+
+#: ../elementor-addons/addons/video-latest-activities.php:43
+msgid "Video area Designs"
+msgstr ""
+
+#: ../elementor-addons/addons/video-latest-activities.php:55
+msgid "Video area top and bottom pattern"
+msgstr ""
+
+#: ../elementor-addons/addons/video-latest-activities.php:65
+msgid "Video area background"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:12
+msgid "Volunteer area"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:45
+msgid "volunteer design area"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:67
+msgid "Volunteer header area"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:85
+msgid "Volunteer content area"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:102
+msgid "Volunteer image"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:112
+msgid "Volunteer name"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:120
+msgid "Volunteer position"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:130
+msgid "social"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:135
+msgid "Volunteer icon one"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:142
+msgid "Volunteer icon one link"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:154
+msgid "Volunteer icon two"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:161
+msgid "Volunteer icon two link"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:173
+msgid "Volunteer icon three"
+msgstr ""
+
+#: ../elementor-addons/addons/volunteer-area.php:180
+msgid "Volunteer icon three link"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:16
+msgid " LoveUs WooCommerce Products"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:77
+msgid "Tagline & Hover Color"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:94
+msgid "Product Title Color"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:106
+msgid "Icon Color"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:118
+msgid "Icon hover & Tag Text Color"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:131
+msgid "Tagline"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:133
+msgid "Help For Covid-19"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:141
+msgid "Our Products"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:149
+msgid "Cupidatat non proident sunt"
+msgstr ""
+
+#: ../elementor-addons/addons/woo-products.php:214
+msgid "Product Category"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:11
+msgid "Color option"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:22
+msgid "sub titile Color"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:35
+msgid "titile Color"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:48
+msgid "content Color"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:61
+#: ../elementor-addons/image-setting-one.php:13
+msgid "Header text Position"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:74
+#: ../elementor-addons/image-setting-one.php:26
+msgid "Section Sub-title"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:82
+#: ../elementor-addons/image-setting-one.php:34
+msgid "Section title"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:90
+msgid "Section title Tag"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:109
+#: ../elementor-addons/image-setting-one.php:42
+msgid "Section Content"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:118
+#: ../elementor-addons/image-setting-one.php:51
+msgid "Button Hide or Show"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:128
+#: ../elementor-addons/image-setting-one.php:61
+msgid "Button text"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:155
+msgid "Button two Hide or Show"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:165
+msgid "Button two text"
+msgstr ""
+
+#: ../elementor-addons/header-settings.php:176
+msgid "Button two link"
+msgstr ""
+
+#: ../elementor-addons/loveus-addons.php:202
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../elementor-addons/loveus-addons.php:203
+#: ../elementor-addons/loveus-addons.php:229
+#: ../elementor-addons/loveus-addons.php:256
+msgid "Love Us core"
+msgstr ""
+
+#: ../elementor-addons/loveus-addons.php:204
+#: ../elementor-addons/loveus-addons.php:230
+msgid "Elementor"
+msgstr ""
+
+#: ../elementor-addons/loveus-addons.php:228
+#: ../elementor-addons/loveus-addons.php:255
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../elementor-addons/loveus-addons.php:257
+msgid "PHP"
+msgstr ""
+
+#: ../elementor-addons/register-categories.php:8
+msgid "Love US Core"
+msgstr ""
+
+#: ../elementor-addons/register-categories.php:19
+msgid "Animation Options"
+msgstr ""
+
+#: ../elementor-addons/register-categories.php:27
+msgid "Animation Class"
+msgstr ""
+
+#: ../elementor-addons/register-categories.php:35
+msgid "Delay Time(ms)"
+msgstr ""
+
+#: ../elementor-addons/register-categories.php:43
+msgid "Duration Time(ms)"
+msgstr ""
+
+#: ../meta-box/config-meta-box.php:20
+msgid "Page Design Settings"
+msgstr ""
+
+#: ../meta-box/config-meta-box.php:29
+msgid "Get Involved area"
+msgstr ""
+
+#: ../meta-box/config-meta-box.php:36
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../meta-box/config-meta-box.php:50
+msgid "Design Settings"
+msgstr ""
+
+#: ../meta-box/config-meta-box.php:59
+msgid "Event Image"
+msgstr ""
+
+#: ../post-type/events.php:6
+msgctxt "Post Type General Name"
+msgid "Events"
+msgstr ""
+
+#: ../post-type/events.php:7
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr ""
+
+#: ../post-type/events.php:8 ../post-type/events.php:9
+msgid "Event"
+msgstr ""
+
+#: ../post-type/events.php:10
+msgid "Item Event"
+msgstr ""
+
+#: ../post-type/events.php:11
+msgid "Parent Item:"
+msgstr ""
+
+#: ../post-type/events.php:12
+msgid "All Event"
+msgstr ""
+
+#: ../post-type/events.php:13 ../post-type/events.php:14
+msgid "Add New Event"
+msgstr ""
+
+#: ../post-type/events.php:15
+msgid "New Event Item"
+msgstr ""
+
+#: ../post-type/events.php:16
+msgid "Edit Event Item"
+msgstr ""
+
+#: ../post-type/events.php:17
+msgid "Update Event Item"
+msgstr ""
+
+#: ../post-type/events.php:18
+msgid "View Event Item"
+msgstr ""
+
+#: ../post-type/events.php:19
+msgid "Search Item"
+msgstr ""
+
+#: ../post-type/events.php:20
+msgid "Not found"
+msgstr ""
+
+#: ../post-type/events.php:21
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../post-type/events.php:22
+msgid "Featured Image"
+msgstr ""
+
+#: ../post-type/events.php:23
+msgid "Set featured image"
+msgstr ""
+
+#: ../post-type/events.php:24
+msgid "Remove featured image"
+msgstr ""
+
+#: ../post-type/events.php:25
+msgid "Use as featured image"
+msgstr ""
+
+#: ../post-type/events.php:26
+msgid "Insert into item"
+msgstr ""
+
+#: ../post-type/events.php:27
+msgid "Uploaded to this item"
+msgstr ""
+
+#: ../post-type/events.php:28
+msgid "Items list"
+msgstr ""
+
+#: ../post-type/events.php:29
+msgid "Items list navigation"
+msgstr ""
+
+#: ../post-type/events.php:30
+msgid "Filter items list"
+msgstr ""
+
+#: ../post-type/events.php:35
+msgid "Description."
+msgstr ""
+
+#: ../widgets/loveus-sidebar-latest-post-widget.php:14
+msgid "Latest News"
+msgstr ""
+
+#: ../widgets/loveus-sidebar-latest-post-widget.php:17
+msgid "LoveUs Latest News"
+msgstr ""
+
+#: ../widgets/loveus-sidebar-latest-post-widget.php:37
+msgid "Number of posts:"
+msgstr ""

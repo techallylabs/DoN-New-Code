@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174.805" height="63.013" viewBox="0 0 174.805 63.013">
+  <g id="Group_6" data-name="Group 6" transform="translate(-1147.986 -424)">
+    <g id="Group_1" data-name="Group 1" transform="translate(1147.986 424)">
+      <path id="Path_1" data-name="Path 1" d="M1552.417,643.964a68.088,68.088,0,0,0-8.79,5.623c-2.853,2.414-5.762,8.231-8.176,17.834s-8.889,22.443-12.456,25.736-7.847,6.585-12.621,2.469-1.1-9.164.6-10.316,9.164-5.652,9.383-9.658-8.4-8.231-11.139-9.109-15.42-3.018-17.724-9.219,3.615-9.789,9.213-9.076,10.322,5.509,11.365,6.168,5.02,4.223,9.823,3.677,11.724-10.434,18.328-13.444A16.3,16.3,0,0,1,1552.417,643.964Z" transform="translate(-1490.986 -634.534)" fill="#fff"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.716" cy="7.716" r="7.716" transform="translate(21.823 3.617)" fill="#fff"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="3.014" cy="3.014" r="3.014" transform="translate(38.942 0)" fill="#fff"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="3.737" cy="3.737" r="3.737" transform="translate(51.239 26.523)" fill="#fff"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="3.858" cy="3.858" r="3.858" transform="translate(12.781 36.408)" fill="#fff"/>
+    </g>
+    <text id="LoveUs" transform="translate(1217.791 456.049)" fill="#fff" font-size="29" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">LoveUs</tspan></text>
+    <text id="Non-Profite" transform="translate(1217.791 474.507)" fill="#fff" font-size="11" font-family="WorkSans-Regular, Work Sans"><tspan x="0" y="0">Non-Profite</tspan></text>
+  </g>
+</svg>
